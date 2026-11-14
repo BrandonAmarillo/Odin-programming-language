@@ -1,4 +1,4 @@
-package holaMundo
+package main
 
 import "core:fmt"
 
